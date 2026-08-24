@@ -38,7 +38,7 @@ The project simulates a multi-site enterprise network using IPv4/IPv6 dual-stack
 
 # 🗺️ Network Topology
 
-![CCNA 2 Network Topology](./images/ccna2-topology.png)
+![CCNA 2 Network Topology](./ccna2-topology.png)
 
 ---
 
