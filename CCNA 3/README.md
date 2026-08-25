@@ -16,7 +16,7 @@ The laboratory demonstrates enterprise switching, routing, redundancy, IPv4/IPv6
 
 ## 🗺️ Network Topology
 
-![Network Topology](CCNA 3 TOPOLOGY.png)
+![Network Topology](topology.png)
 
 ---
 
